@@ -8,7 +8,7 @@
 
 範圍在 f1~f2 內，每次增加兩個華氏溫度刻度的速查表。
 
-<font color=red>注意：如果 f1>f2，則直接列印 error。</font>
+<font color=red> 注意：如果 f1>f2，則直接列印 error。
 
 ## 輸入格式
 
@@ -47,5 +47,5 @@
 # 主程式
 
 輸入兩個整數比較大小,輸入格式為[int,int],第一個數字印出 error,否則印出
-第一個整數到第二個整數的數值<font color=red>(累加 2 並轉換溫度)</font>
+第一個整數到第二個整數的數值<font color=red>(累加 2 並轉換溫度)
 ![alt text](images/主程式.png)
